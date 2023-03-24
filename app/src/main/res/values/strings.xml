@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProfileApp</string>
+    <string name="txtName">Matt Keyzer</string>
+    <string name="txtButton">View Profile</string>
+    <string name="txtProfileInfo">
+        Hello, My name is Matt Keyzer! \n
+        I am 18 years old and am studying mobile app development! \n
+
+        I spend my free time playing with my cat Paul and playing indie video games!
+
+    </string>
+</resources>
